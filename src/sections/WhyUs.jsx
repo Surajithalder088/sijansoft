@@ -127,7 +127,7 @@ const WhyUs = () => {
                transition={{ duration: 0.5, ease: "easeOut" }}
              >
                <h4 className="text-blue-400 uppercase tracking-[0.2em] text-xs font-bold mb-4">
-                 WHY SH TECH LABS
+                 WHY SijanSoft
                </h4>
            
                <h2 className="text-white text-5xl md:text-6xl font-bold leading-tight">
@@ -147,7 +147,7 @@ const WhyUs = () => {
              >
                <p className="text-gray-400 text-lg leading-relaxed">
                  We've seen what happens when companies ship fast without thinking
-                 long-term. SH TECH LABS was built as the alternative — a place where
+                 long-term. SijanSoft was built as the alternative — a place where
                  engineering excellence isn't a differentiator, it's the baseline.
                </p>
              </motion.div>

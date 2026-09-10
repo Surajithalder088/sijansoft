@@ -185,7 +185,7 @@ const App = () => {
                   objectFit: "contain",
                 }}
               />
-              <span className='text-2xl font-serif italic'>SH TECH LABS</span>
+              <span className='text-2xl font-serif italic'>SijanSoft</span>
             </div>
 
             {/* Loading Text */}
@@ -257,7 +257,7 @@ const App = () => {
               <p className={`flex-1 text-white flex items-center justify-start cursor-pointer ${isMobile ? 'pl-6' : 'pl-15 '}`}
                 onClick={() => smoothScrollTo(window.innerHeight * 0)}>
                 <img src='/images/shtl-logo.png' className={`${isMobile ? 'size-6' : 'size-12'}`} />
-                <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SH TECH LABS</span></p>
+                <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SijanSoft</span></p>
 
 
               {!isMobile ? (

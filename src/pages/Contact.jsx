@@ -12,10 +12,10 @@ import Header from '../components/Header'
 
 const Contact = () => {
   useEffect(() => {
-  document.title = "Contact SH TECH LABS | Get in Touch";
+  document.title = "Contact SijanSoft | Get in Touch";
 
   const description =
-    "Contact SH TECH LABS for Business website development, Custom applications , software solutions, redesign, maintenance and digital projects.";
+    "Contact SijanSoft for Business website development, Custom applications , software solutions, redesign, maintenance and digital projects.";
 
   let meta = document.querySelector('meta[name="description"]');
 
@@ -73,7 +73,7 @@ const Contact = () => {
       <p className="text-gray-400 text-lg md:text-xl leading-relaxed mt-8 max-w-2xl">
         Have an idea, a project, or a business challenge?
         We're here to turn it into a digital solution that works.
-        Reach out to SH TECH LABS and let's start a conversation.
+        Reach out to SijanSoft and let's start a conversation.
       </p>
     </motion.div>
 
@@ -97,11 +97,11 @@ const Contact = () => {
           </p>
 
           <h3 className="text-white text-2xl md:text-3xl font-semibold mb-5">
-            Visit SH TECH LABS
+            Visit SijanSoft
           </h3>
 
           <p className="text-gray-400 text-lg leading-relaxed max-w-md">
-            SH TECH LABS
+            SijanSoft
             <br />
             Kolkata, West Bengal
             <br />
@@ -214,7 +214,7 @@ const Contact = () => {
         {/* Map Image */}
         <img
           src="https://newsmeter.in/h-upload/2022/11/27/500x300_333804-whatsapp-image-2022-11-27-at-35153-pm.webp"
-          alt="SH TECH LABS location"
+          alt="SijanSoft location"
           className="absolute inset-0 w-full h-full object-cover opacity-70"
         />
 

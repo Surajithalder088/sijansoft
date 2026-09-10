@@ -15,10 +15,10 @@ import Header from '../components/Header.jsx'
 const About = () => {
   //for seo
   useEffect(() => {
-  document.title = "About SH TECH LABS | Developing The Future Of Digital Infrastructure";
+  document.title = "About SijanSoft | Developing The Future Of Digital Infrastructure";
 
   const description =
-    "Learn about SH TECH LABS, a software and digital solutions agency helping businesses build modern websites and software solutions.";
+    "Learn about SijanSoft, a software and digital solutions agency helping businesses build modern websites and software solutions.";
 
   let meta = document.querySelector('meta[name="description"]');
 
@@ -53,7 +53,7 @@ const About = () => {
   {/* Background Image */}
   <img
     src="/images/about-hero.jpeg"
-    alt="About SH TECH LABS"
+    alt="About SijanSoft"
     className="absolute inset-0 w-full h-full object-cover z-0"
   />
 
@@ -75,7 +75,7 @@ const About = () => {
     </h1>
 
     <p className="max-w-4xl text-center text-base md:text-lg leading-relaxed text-white">
-      At SH TECH LABS, we help businesses turn their ideas and challenges
+      At SijanSoft, we help businesses turn their ideas and challenges
       into practical digital solutions. From professional websites and
       custom software to modern applications and business automation,
       we create technology designed around real business needs. Our goal

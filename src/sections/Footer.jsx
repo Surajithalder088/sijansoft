@@ -75,7 +75,7 @@ const Footer = () => {
               <p className={`flex-1 text-white flex items-center justify-start cursor-pointer ${isMobile ? 'pl-1' : 'pl-0 '}`}
          onClick={() => smoothScrollTo(window.innerHeight * 0)}>
           <img src='/images/shtl-logo.png'    className={`${isMobile ? 'size-6' : 'size-12'}`}/>
-          <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SH TECH LABS</span></p>
+          <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SijanSoft</span></p>
              
             </div>
             
@@ -168,7 +168,7 @@ const Footer = () => {
         {/* BOTTOM ROW: Copyright & Legal Policies */}
         <div className="pt-8 border-t border-gray-900 flex flex-col sm:flex-row justify-between items-center text-xs text-gray-500 gap-4">
           <div>
-            © 2026 SH TECH LABS. All rights reserved.
+            © 2026 SijanSoft. All rights reserved.
           </div>
           <div className="flex items-center space-x-6">
             <a href="#" className="hover:text-gray-300 transition-colors">Privacy Policy</a>

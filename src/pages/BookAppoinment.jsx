@@ -16,10 +16,10 @@ const BookAppoinment = () => {
 
   //for seo
   useEffect(() => {
-  document.title = "Start a Project | SH TECH LABS";
+  document.title = "Start a Project | SijanSoft";
 
   const description =
-    "Start your website or software project with SH TECH LABS. Discuss your requirements and get a project consultation.";
+    "Start your website or software project with SijanSoft. Discuss your requirements and get a project consultation.";
 
   let meta = document.querySelector('meta[name="description"]');
 

@@ -72,10 +72,10 @@ gsap.registerPlugin(ScrollTrigger)
 const Services = () => {
 // for seo
   useEffect(() => {
-  document.title = "Services | SH TECH LABS";
+  document.title = "Services | SijanSoft";
 
   const description =
-    "Explore SH TECH LABS services including business website development, web applications,AI powered applications,Custom Mobile & Web Software, website redesign, maintenance and digital solutions.";
+    "Explore SijanSoft services including business website development, web applications,AI powered applications,Custom Mobile & Web Software, website redesign, maintenance and digital solutions.";
 
   let meta = document.querySelector('meta[name="description"]');
 

@@ -11,10 +11,10 @@ import ProjectList from '../sections/ProjectList'
 
 const Projects = () => {
   useEffect(() => {
-  document.title = "Projects | SH TECH LABS";
+  document.title = "Projects | SijanSoft";
 
   const description =
-    "Explore projects and digital solutions developed by SH TECH LABS for businesses across different industries.";
+    "Explore projects and digital solutions developed by SijanSoft for businesses across different industries.";
 
   let meta = document.querySelector('meta[name="description"]');
 

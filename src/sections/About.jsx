@@ -172,7 +172,7 @@ useEffect(() => {
                     }}
                   >
                     <p ref={textRef}>
-                      {`At SH Tech Labs, our motive is to bridge the critical gap between sophisticated technical architecture and tangible business growth. We operate with the firm conviction that software should never be a mere utility; it must be a powerful, competitive asset that drives efficiency, scalability, and long-term value.
+                      {`At SijanSoft, our motive is to bridge the critical gap between sophisticated technical architecture and tangible business growth. We operate with the firm conviction that software should never be a mere utility; it must be a powerful, competitive asset that drives efficiency, scalability, and long-term value.
                   
                   Our commitment to our clients is rooted in precision and high-impact engineering. By integrating rigorous agile methodologies with a "zero-bug" philosophy, we transform complex operational challenges into streamlined, secure, and intuitive digital ecosystems. We exist to empower visionary enterprises—from high-growth startups to established industry leaders—by providing the technical infrastructure required to dominate their markets.
                   
