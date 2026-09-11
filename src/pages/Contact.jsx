@@ -122,7 +122,7 @@ const Contact = () => {
 
             {/* Email */}
             <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=contact@shtechlabs.in"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=sijansoft@gmail.com"
   target="_blank"
   rel="noopener noreferrer"
               className="group flex items-center justify-between border-b border-white/10 py-4 max-w-lg"
@@ -132,14 +132,14 @@ const Contact = () => {
               </span>
 
               <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
-                contact@shtechlabs.in
+                sijansoft@gmail.com
               </span>
             </a>
 
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/company/shtechlabs"
+              href="https://www.linkedin.com/company/sijansoft/"
               className="group flex items-center justify-between border-b border-white/10 py-4 max-w-lg"
             >
               <span className="text-gray-300 group-hover:text-white transition-colors">
@@ -147,14 +147,14 @@ const Contact = () => {
               </span>
 
               <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
-                Follow us
+                @sijanSoft
               </span>
             </a>
 
 
             {/* Instagram */}
             <a
-              href="https://www.instagram.com/shtechlabs?utm_source=qr&igsi=MTdycDFycTFkMHhlbw=="
+              href="https://www.instagram.com/sijansoft/"
               className="group flex items-center justify-between border-b border-white/10 py-4 max-w-lg"
             >
               <span className="text-gray-300 group-hover:text-white transition-colors">
@@ -162,14 +162,14 @@ const Contact = () => {
               </span>
 
               <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
-                Follow us
+                @sijansoft
               </span>
             </a>
 
 
             {/* Facebook */}
             <a
-              href="https://www.facebook.com/share/18KyUVrbTr/"
+              href="https://www.facebook.com/share/1JEtBQG7DZ/"
               className="group flex items-center justify-between border-b border-white/10 py-4 max-w-lg"
             >
               <span className="text-gray-300 group-hover:text-white transition-colors">
@@ -177,14 +177,27 @@ const Contact = () => {
               </span>
 
               <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
-                Follow us
+                @SijanSoft
+              </span>
+            </a>
+             {/* X */}
+            <a
+              href="https://www.youtube.com/@SijanSoft"
+              className="group flex items-center justify-between border-b border-white/10 py-4 max-w-lg"
+            >
+              <span className="text-gray-300 group-hover:text-white transition-colors">
+                YouTube
+              </span>
+
+              <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
+               @SijanSoft
               </span>
             </a>
 
 
             {/* X */}
             <a
-              href="https://x.com/SHTECHLABS"
+              href="https://x.com/SijanSoft"
               className="group flex items-center justify-between border-b border-white/10 py-4 max-w-lg"
             >
               <span className="text-gray-300 group-hover:text-white transition-colors">
@@ -192,7 +205,7 @@ const Contact = () => {
               </span>
 
               <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
-                Follow us
+               @SijanSoft
               </span>
             </a>
 

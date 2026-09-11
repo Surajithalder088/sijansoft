@@ -85,7 +85,7 @@ const Footer = () => {
               Premium software engineering consultancy. We build scalable digital products, SaaS platforms, and AI-powered systems for ambitious teams.
             </p>
                <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=contact@shtechlabs.in"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=sijansoft@gmail.com"
   target="_blank"
   rel="noopener noreferrer"
               className="group flex items-center justify-start gap-4 border-b border-white/10 py-4 max-w-lg"
@@ -97,7 +97,7 @@ const Footer = () => {
               </span>
 
               <span className="text-gray-500 group-hover:text-blue-400 transition-colors">
-                contact@shtechlabs.in
+                sijansoft@gmail.com
               </span>
             </a>
               <p className="text-gray-400 text-sm leading-relaxed max-w-sm">
@@ -107,16 +107,18 @@ const Footer = () => {
             {/* Social Icons Wrapped in Fine Round Borders */}
             <div className="flex items-center space-x-3 pt-2">
               {[
-                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToKDAEZ2Ydvo9JpK8sABjeBARpbiEbwhy2An3cPaeStQ&s=10',
-                   href: 'https://www.facebook.com/share/18KyUVrbTr/' },
-                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxfwaKUG9LpXDzwkL3334GlAOiiBC0cLwLDIVpI38Rg&s=10',
-                   href: 'https://www.instagram.com/shtechlabs?utm_source=qr&igsi=MTdycDFycTFkMHhlbw==' },
-                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yFIH_CSizLJ31r2OLenaoFYAs7cnUnmoEgxTx621OQ&s=10',
-                   href: 'https://www.linkedin.com/company/shtechlabs' },
+                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTScHUJCj48phEtgQsaRx0v8hFaikJYqR35nb9Ru0l5xQ&s=10',
+                   href: 'https://www.facebook.com/share/1JEtBQG7DZ/' },
+                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc4y5QSmDn7y5QDkxihPJyy6nsygzWdbpwQ8qGlGSKCA&s=10',
+                   href: 'https://www.instagram.com/sijansoft/' },
+                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRS6uHWtrq76P_huoHbVy-3Twk3K5uwKFAQke5Tks4XQ&s=10',
+                   href: 'https://www.linkedin.com/company/sijansoft/' },
+                { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAwNFAgGOaGoe0aU5R0CjTNaCaSd2qmEgx4NQaY3cgQ&s=10',
+                   href: 'https://www.youtube.com/@SijanSoft' },
                 { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KQUtAHY0_kl_WL-ZIzsy4jMvBX8SwWlSPhm0p6m1KA&s=10',
-                   href: 'https://x.com/SHTECHLABS' },
+                   href: 'https://x.com/SijanSoft' },
                 { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd43NPXZcOp-N1vst9Acu-2IV7ZqJ3zQiOJpoW5YOOyg&s=10', 
-                  href: 'https://github.com/shtechlabs' },
+                  href: 'https://github.com/sijansoft' },
                 { label: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAcE2jn33Lqf2fteJ00cS_p19c8dv-nGRQzJWwn7YBg&s=10', 
                   href: 'https://wa.me/7477685132' }
                 
