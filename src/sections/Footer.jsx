@@ -56,14 +56,14 @@ const Footer = () => {
             </p>
           </div>
           
-          {/* <div>
+          <div>
             <img src='/images/amar-best-img.jpeg'
            className="animate-footer-cta object-cover mb-4"
             style={{height:isMobile?'100px':'180px',width:isMobile?'100px':'150px',}}
             />
             <p className="text-white font-semibold">Mr. Surajit Halder </p>
             <p className="text-gray-400 text-sm">Founder & CEO</p>
-          </div> */}
+          </div>
         </div>
 
         {/* MIDDLE ROW: Brand Info & Multi-Column Navigation */}
@@ -74,8 +74,10 @@ const Footer = () => {
             <div className="flex items-center space-x-3">
               <p className={`flex-1 text-white flex items-center justify-start cursor-pointer ${isMobile ? 'pl-1' : 'pl-0 '}`}
          onClick={() => smoothScrollTo(window.innerHeight * 0)}>
-          <img src='/images/shtl-logo.png'    className={`${isMobile ? 'size-6' : 'size-12'}`}/>
-          <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SijanSoft</span></p>
+          <img src='/images/shtl-logo.png'    className={`${isMobile ? 'size-14' : 'size-14'}`}/>
+          <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>
+            <img src='/images/sijansoft-trans-1.png' className={`${isMobile ? 'size-14 w-26' : 'size-18 w-36'}`}
+                  alt="heading-logo3"/></span></p>
              
             </div>
             

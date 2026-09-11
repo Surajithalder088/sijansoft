@@ -121,7 +121,7 @@ const App = () => {
 
           <div className={`flex flex-col items-center justify-between p-2 ${isMobile?"w-full":"w-[50%]"} `}>
             <p className='text-3xl font-serif p-2'>Ready to Build Your Website?</p>
-            <p className='text-xl font-mono p-2'>Get a free consultation and project estimate from SH Tech Lab.
+            <p className='text-xl font-mono p-2'>Get a free consultation and project estimate from SijanSoft.
 
             </p>
             <p className='p-2  text-gray-500'>Whether you need a business website, website redesign, maintenance, SEO optimization, or a custom web application, our team is here to help your business grow online.</p>
@@ -185,7 +185,10 @@ const App = () => {
                   objectFit: "contain",
                 }}
               />
-              <span className='text-2xl font-serif italic'>SijanSoft</span>
+              <span className='text-2xl font-serif italic'>
+                <img src='/images/sijansoft-trans-1.png' className={`${isMobile ? 'size-16 w-40' : 'size-20 w-46'}`}
+                  alt="heading-logo5"/>
+              </span>
             </div>
 
             {/* Loading Text */}
@@ -245,7 +248,7 @@ const App = () => {
 
           {/* header */}
           <div className={`
-  flex flex-col ${isMobile ? 'py-3' : 'p-1'}
+  flex flex-col ${isMobile ? 'py-3' : 'p-0'}
   fixed top-0 w-[100vw] z-90 fit-content 
 
   backdrop-blur-xl
@@ -256,8 +259,10 @@ const App = () => {
             <div className='flex items-center justify-between w-full '>
               <p className={`flex-1 text-white flex items-center justify-start cursor-pointer ${isMobile ? 'pl-6' : 'pl-15 '}`}
                 onClick={() => smoothScrollTo(window.innerHeight * 0)}>
-                <img src='/images/shtl-logo.png' className={`${isMobile ? 'size-6' : 'size-12'}`} />
-                <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SijanSoft</span></p>
+                <img src='/images/shtl-logo.png' className={`${isMobile ? 'size-10' : 'size-14'}`} />
+                <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>
+                  <img src='/images/sijansoft-trans-1.png' className={`${isMobile ? 'size-12 w-24' : 'size-16 w-38'}`}
+                  alt="heading-logo"/></span></p>
 
 
               {!isMobile ? (

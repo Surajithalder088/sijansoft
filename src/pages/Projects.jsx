@@ -57,11 +57,11 @@ const Projects = () => {
 
         {/* 🔥 FULL BACKGROUND VIDEO */}
         
-        <div    className="absolute flex justify-center items-start inset-0 w-full h-full object-cover h-[60vh]">
+        <div    className={`absolute flex justify-center items-start inset-0 w-full   ${isMobile?'object-contain h-[70%]':'object-cover h-[60vh]'} `}>
             <img
             alt='logo-default'
-            src='/images/shtl-dark-logo (1).jpeg'
-            className={`w-[70%] h-full ${isMobile?'object-contain':'object-cover'}`}/>
+            src='/images/sijansoft-logo-2.jpeg'
+            className={`w-[70%]  h-full ${isMobile?'object-cover ':'object-cover '}`}/>
 
         </div>
 

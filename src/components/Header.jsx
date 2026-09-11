@@ -21,8 +21,10 @@ const Header = () => {
       <div className='flex items-center justify-between w-full '> 
          <a className={`flex-1 text-white flex items-center justify-start cursor-pointer ${isMobile ? 'pl-6' : 'pl-15 '}`}
          href='/'>
-          <img src='/images/shtl-logo.png'    className={`${isMobile ? 'size-6' : 'size-12'}`}/>
-          <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>SijanSoft</span></a>
+          <img src='/images/shtl-logo.png'    className={`${isMobile ? 'size-10' : 'size-14'}`}/>
+          <span className={`${isMobile ? 'text-md' : 'text-2xl'} font-serif italic`}>
+            <img src='/images/sijansoft-trans-1.png' className={`${isMobile ? 'size-12 w-22' : 'size-16 w-38'}`}
+                  alt="heading-logo2"/></span></a>
 
 
        {!isMobile ? (
